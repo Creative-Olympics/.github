@@ -7,5 +7,5 @@
 
 # Active repos:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Creative-Olympics&repo=CO2-Website)](https://github.com/Creative-Olympics/CO2020-Website)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Creative-Olympics&repo=CO2-Public-Map)](https://github.com/Creative-Olympics/CO2020-Website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Creative-Olympics&repo=CO2-Website)](https://github.com/Creative-Olympics/CO2-Website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Creative-Olympics&repo=CO2-Public-Map)](https://github.com/Creative-Olympics/CO2-Public-Map)
