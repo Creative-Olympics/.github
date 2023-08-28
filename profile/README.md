@@ -9,3 +9,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Creative-Olympics&repo=CO2-Website)](https://github.com/Creative-Olympics/CO2-Website)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Creative-Olympics&repo=CO2-Public-Map)](https://github.com/Creative-Olympics/CO2-Public-Map)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Creative-Olympics&repo=CO2-Discord-Bot)](https://github.com/Creative-Olympics/CO2-Discord-Bot)
