@@ -13,22 +13,22 @@ To have a clear vision of the project, this one is composed of several parts :
 
 <p>
 <b>🌐 Website</b><br>
-&emsp;On which there will be all info about the event, how to participate, the scores and schedule, partenaires and donation system. Currently leaded by **Neïl**
+&emsp;On which there will be all info about the event, how to participate, the scores and schedule, partenaires and donation system. Currently leaded by <b>Neïl</b>
 </p>
 
 <p>
 <b>☁️ Network</b><br>
-&emsp;This part allow to have a single endpoint to syncronize the website, the discord bot and the minecraft plugins. Currently leaded by **Neïl**
+&emsp;This part allow to have a single endpoint to syncronize the website, the discord bot and the minecraft plugins. Currently leaded by <b>Neïl</b>
 </p>
 
 <p>
 <b>🤖 Discord bot</b><br>
-&emsp;This bot will allow to share news on the discord server, manage teams and make cross-plateform moderation. Currently leaded by **Z_runner**
+&emsp;This bot will allow to share news on the discord server, manage teams and make cross-plateform moderation. Currently leaded by <b>Z_runner</b>
 </p>
 
 <p>
 <b>🔌 Minecraft plugin</b><br>
-&emsp;Plugins will be necessary to manage the event contests. If public plugins exist and satisfy our needs like UHCore, we will use them, otherwise, we have to develop our custom plugins. Currently leaded by **Syl2010**
+&emsp;Plugins will be necessary to manage the event contests. If public plugins exist and satisfy our needs like UHCore, we will use them, otherwise, we have to develop our custom plugins. Currently leaded by <b>Syl2010</b>
 </p>
 
 <p>
@@ -38,17 +38,17 @@ To have a clear vision of the project, this one is composed of several parts :
 
 <p>
 <b>📂 Datapack</b><br>
-&emsp;To manage the minigames on the public server. Minigames must be minimalists and doesn't reward players on there performances but on there presence (games played, time spend, zone explored etc.) to avoid rewarding cheating players. Currently leaded by **Leirof**
+&emsp;To manage the minigames on the public server. Minigames must be minimalists and doesn't reward players on there performances but on there presence (games played, time spend, zone explored etc.) to avoid rewarding cheating players. Currently leaded by <b>Leirof</b>
 </p>
 
 <p>
 <b>🗿 Ressource pack</b><br>
-&emsp;If there is a need of custom model or texture for the ceremony, on the public map or uring the constest, contact this team. Currently leaded by **fantomitechno**
+&emsp;If there is a need of custom model or texture for the ceremony, on the public map or uring the constest, contact this team. Currently leaded by <b>fantomitechno</b>
 </p>
 
 <p>
 <b>🎆 Ceremonies</b><br>
-&emsp;Opening and closing ceremonies containing a huge firework show and a speech that will announce the theme / final scores. Currently leaded by **JeffWooden_**
+&emsp;Opening and closing ceremonies containing a huge firework show and a speech that will announce the theme / final scores. Currently leaded by <b>JeffWooden_</b>
 </p>
 
 <p>
