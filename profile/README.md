@@ -10,15 +10,51 @@
 We are always happy to welcome people want want to get part of this event. To join us, simply contact us on our [Discord server](https://discord.gg/Pcj57WK).
 
 To have a clear vision of the project, this one is composed of several parts :
-- **🌐 Website** (currently leaded by Neïl)
-- **☁️ Network** infrasctructure (currently leaded by Neïl)
-- **🤖 Discord bot** in python to link the website to the server (currently leaded by Z_runner)
-- **🔌 Minecraft plugin** for event contests (currently leaded by Syl2010)
-- **🧱 Build** of a map which will be hosted on a public server (which doesn't have leader for now)
-- **📂 Datapack** to make some minigames on the public server (currently leaded by Leirof)
-- **🗿 Ressource pack** for all the event (leaded by fantomitechno)
-- **🎆 Ceremonies** which will take place on the public map (leaded by JeffWooden_)
-- **📢 Communication** (not started yet)
+
+<p>
+<b>🌐 Website</b><br>
+&emsp;On which there will be all info about the event, how to participate, the scores and schedule, partenaires and donation system. Currently leaded by **Neïl**
+</p>
+
+<p>
+<b>☁️ Network</b><br>
+&emsp;This part allow to have a single endpoint to syncronize the website, the discord bot and the minecraft plugins. Currently leaded by **Neïl**
+</p>
+
+<p>
+<b>🤖 Discord bot</b><br>
+&emsp;This bot will allow to share news on the discord server, manage teams and make cross-plateform moderation. Currently leaded by **Z_runner**
+</p>
+
+<p>
+<b>🔌 Minecraft plugin</b><br>
+&emsp;Plugins will be necessary to manage the event contests. If public plugins exist and satisfy our needs like UHCore, we will use them, otherwise, we have to develop our custom plugins. Currently leaded by **Syl2010**
+</p>
+
+<p>
+<b>🧱 Build</b><br>
+&emsp;There will be a public server that will be used for ceremonies and also as a minigame server during the entire event. Easter eggs and cashprize will be available through this server to make give something to do for spectators. This part doesn't have leader for now
+</p>
+
+<p>
+<b>📂 Datapack</b><br>
+&emsp;To manage the minigames on the public server. Minigames must be minimalists and doesn't reward players on there performances but on there presence (games played, time spend, zone explored etc.) to avoid rewarding cheating players. Currently leaded by **Leirof**
+</p>
+
+<p>
+<b>🗿 Ressource pack</b><br>
+&emsp;If there is a need of custom model or texture for the ceremony, on the public map or uring the constest, contact this team. Currently leaded by **fantomitechno**
+</p>
+
+<p>
+<b>🎆 Ceremonies</b><br>
+&emsp;Opening and closing ceremonies containing a huge firework show and a speech that will announce the theme / final scores. Currently leaded by **JeffWooden_**
+</p>
+
+<p>
+<b>📢 Communication</b><br>
+&emsp;To let the world now this amazing event exist and show them that they need to take part of it! This part will start later.
+</p>
 
 Communication need at least 4 month and need all the technical part to be done. In other word, as the best time to do such kind of event is july, all the technical part should be done in february od the same year. To be safe, we consider that technical part have to be done 6 month before, so in december.
 
