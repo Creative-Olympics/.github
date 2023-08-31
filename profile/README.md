@@ -24,7 +24,7 @@ Communication need at least 4 month and need all the technical part to be done. 
 
 ## Organization
 
-We are using the agile methode. We then define sprints, which are basically 3 weeks during which we work on the small objectives we fixed at the begining of the sprint and we do a meeting at the end to see the progress and ensure everyone have everything need to do the job.
+We are using the agile methode. We then define sprints, which are basically 3 weeks during which we work on the small objectives we fixed at the begining of the sprint and we do a meeting at the end to see the progress and ensure everyone have everything need to do the job. During these three weeks, each leader is free to organize the work in the way he juidge the most conveniant.
 
 <br>
 <div align=center>
