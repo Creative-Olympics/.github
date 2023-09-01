@@ -49,7 +49,7 @@ The project is splitted in several parts, each part act like an entire project w
       <div align=center>¯\_(ツ)_/¯<br><br><div align=center>
     </td>
     <td>
-      ✅<b><a href="https://github.com/orgs/Creative-Olympics/projects/1">Tasks</a></b></div></div>
+      <div align=center>✅<b><a href="https://github.com/orgs/Creative-Olympics/projects/1">Tasks</a></b></div>
     </td>
   </tr>
 
@@ -68,7 +68,7 @@ The project is splitted in several parts, each part act like an entire project w
       <a href="https://github.com/Creative-Olympics/CO2-Discord-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Creative-Olympics&repo=CO2-Discord-Bot"></a>
     </td>
     <td>
-      ✅<b><a href="https://github.com/orgs/Creative-Olympics/projects/1">Tasks</a></b></div></div>
+      <div align=center>✅<b><a href="https://github.com/orgs/Creative-Olympics/projects/7">Tasks</a></b></div>
     </td>
   </tr>
 
@@ -87,7 +87,7 @@ The project is splitted in several parts, each part act like an entire project w
       <a href="https://github.com/Creative-Olympics/CO2-RedstonePuzzle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Creative-Olympics&repo=CO2-RedstonePuzzle"></a>
     </td>
     <td>
-      ✅<b><a href="https://github.com/orgs/Creative-Olympics/projects/10">Tasks</a></b></div></div>
+      <div align=center>✅<b><a href="https://github.com/orgs/Creative-Olympics/projects/8">Tasks</a></b></div>
     </td>
   </tr>
 
@@ -106,7 +106,7 @@ The project is splitted in several parts, each part act like an entire project w
       <div align=center>On minecraft at the address <code>play.gunivers.net</code> (1.20.1)</div>
     </td>
     <td>
-      ✅<b><a href="https://github.com/orgs/Creative-Olympics/projects/5">Tasks</a></b></div></div>
+      <div align=center>✅<b><a href="https://github.com/orgs/Creative-Olympics/projects/5">Tasks</a></b></div>
     </td>
   </tr>
 
@@ -125,7 +125,7 @@ The project is splitted in several parts, each part act like an entire project w
       <a href="https://github.com/Creative-Olympics/CO2-Public-Map"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Creative-Olympics&repo=CO2-Public-Map"></a>
     </td>
     <td>
-      ✅<b><a href="https://github.com/orgs/Creative-Olympics/projects/4">Tasks</a></b></div></div>
+      <div align=center>✅<b><a href="https://github.com/orgs/Creative-Olympics/projects/4">Tasks</a></b></div>
     </td>
   </tr>
 
@@ -144,7 +144,7 @@ The project is splitted in several parts, each part act like an entire project w
       <a href="https://github.com/Creative-Olympics/CO2-Public-Map"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Creative-Olympics&repo=CO2-Public-Map"></a>
     </td>
     <td>
-      ✅<b><a href="https://github.com/orgs/Creative-Olympics/projects/6">Tasks</a></b></div></div>
+      <div align=center>✅<b><a href="https://github.com/orgs/Creative-Olympics/projects/6">Tasks</a></b></div>
     </td>
   </tr>
 
@@ -163,7 +163,7 @@ The project is splitted in several parts, each part act like an entire project w
       <div align=center>¯\_(ツ)_/¯<br><br><div align=center>
     </td>
     <td>
-      ✅<b><a href="https://github.com/orgs/Creative-Olympics/projects/9">Tasks</a></b></div></div>
+      <div align=center>✅<b><a href="https://github.com/orgs/Creative-Olympics/projects/9">Tasks</a></b></div>
     </td>
   </tr>
 
@@ -182,7 +182,7 @@ The project is splitted in several parts, each part act like an entire project w
       <div align=center>Not started yet.</div>
     </td>
     <td>
-      ✅<b><a href="https://github.com/orgs/Creative-Olympics/projects/10">Tasks</a></b></div></div>
+      <div align=center>✅<b><a href="https://github.com/orgs/Creative-Olympics/projects/10">Tasks</a></b></div>
     </td>
   </tr>
 
